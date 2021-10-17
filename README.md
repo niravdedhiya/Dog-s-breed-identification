@@ -1,2 +1,4 @@
-•	A supervised learning model trained using concepts of Convolution Neural Network and Computer Vision to identify dog's breed from image of dog.
-•	Model is trained using CNN over 120 breed classes and a validation accuracy of 86% is achieved.
+To identyfy the breed of dogs, Convolutional Neural Network was used and was coded using Python3. 
+
+Model was trained on dataset contained 120 classes. We achieved validation accuracy of 86%. This was supervised learning.
+
