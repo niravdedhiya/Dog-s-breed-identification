@@ -2,3 +2,4 @@ To identyfy the breed of dogs, Convolutional Neural Network was used and was cod
 
 Model was trained on dataset contained 120 classes. We achieved validation accuracy of 86%. This was supervised learning.
 
+abc
